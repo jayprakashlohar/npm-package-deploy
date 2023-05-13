@@ -1,7 +1,7 @@
 {
-  "name": "is-odd",
+  "name": "check-even-odd",
   "version": "1.0.0",
-  "description": "is-odd npm",
+  "description": "check if number is even or odd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

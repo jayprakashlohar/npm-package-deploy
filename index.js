@@ -1,5 +1,6 @@
-function isOdd(num) {
-  return num % 2 !== 0;
-}
+const isEven = (num) => {
+  if (num % 2 == 0) return true;
+  else return false;
+};
 
-module.exports = isOdd;
+module.exports = isEven;
